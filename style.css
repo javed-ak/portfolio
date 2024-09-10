@@ -30,7 +30,7 @@ Buttons/Links: #03dac6 (Aqua Teal)
 }
 
 .para{
-    padding: 10px 200px;
+    padding: 10px 10%;
 }
 
 h3{
@@ -66,4 +66,10 @@ img:hover{
     gap: 10px;
     justify-content: center; /* Center the icons horizontally */
     margin-top: 10px;
+}
+
+.connect{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
